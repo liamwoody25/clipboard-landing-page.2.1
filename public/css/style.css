@@ -1,0 +1,21 @@
+/********* utils ***********/
+
+:root{
+    --Main-color:#26BAA4;
+    --Second-color:#6173FF;
+    --hd-color:#4C545D;
+    --Txt-color:#9FABB2;
+}
+
+.main-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    max-width: 1200px;
+}
+
+body{
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin: 0;
+    padding: 0;
+}
